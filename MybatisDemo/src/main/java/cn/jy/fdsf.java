@@ -1,5 +1,5 @@
 package cn.jy;
-//��mmm
+//你吃饭了吗
 public class fdsf {
    private int id;
    private String name;
